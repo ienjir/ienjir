@@ -11,7 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ienjir&theme=tokyonight&hide_border=true)<br/>
 ![ienjir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ienjir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)<br/>
 ![ienjir's Stats](https://github-readme-stats.vercel.app/api?username=ienjir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
-![ienjir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ienjir&theme=tokyonight&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ienjir&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
