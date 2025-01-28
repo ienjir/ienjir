@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Artafera (Webshop)<br>👯 I’m looking to collaborate on any project<br>🌱 I’m currently learning Go and Backend<br>💬 Ask me about UI/UX Design and Webdevelopment<br>⚡ Fun fact: My first prgram wasn't a HelloWorld but a simple calculation
+🔭 I’m currently working on Artafera (Webshop)<br>👯 I’m looking to collaborate on any project<br>🌱 I’m currently learning Go and Backend<br>💬 Ask me about UI/UX Design and Webdevelopment<br>⚡ Fun fact: My first prgram wasn't a HelloWorld but a simple calculation
 
 
 ## 🌐 Socials:
